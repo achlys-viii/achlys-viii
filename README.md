@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @achlys-viii
 - 👀 I’m interested in everything text.
-- 🌱 I’m currently learning technical writing principles.
+- 🌱 I’m currently learning about technical writing principles.
 - ⚡ Fun fact: I like flowarts a ton and I'm always excited to get my hands on a new prop!✨
 
 <!---
